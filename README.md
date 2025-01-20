@@ -6,8 +6,8 @@ Welcome to the repository for the practical experiments conducted during the sec
 
 This repository includes practical experiments related to advanced physics topics, such as:
 
-- **[Photoelectric Effect](./Photoelectric-Effect/)**: Demonstrates the principles of the photoelectric effect, illustrating how light energy is converted into electrical energy.
-- **[RC Filter](./RC-Filter/)**: Explores the behavior of resistor-capacitor (RC) circuits and their filtering properties in signal processing.
+- **[Photoelectric Effect](./Photoelectric_Effect/)**: Demonstrates the principles of the photoelectric effect, illustrating how light energy is converted into electrical energy.
+- **[RC Filter](./RC_Filter/)**: Explores the behavior of resistor-capacitor (RC) circuits and their filtering properties in signal processing.
 - **[Radiation](./Radiation/)**: Investigates the properties and effects of different types of radiation.
 - **[Thermistor](./Thermistor/)**: Examines the characteristics of thermistors and their applications in temperature sensing.
 
